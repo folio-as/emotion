@@ -69,8 +69,6 @@ export interface StyledComponents {
   ListView: HostClassComponent<ReactNative['ListView']>
   Modal: HostClassComponent<ReactNative['Modal']>
   NavigatorIOS: HostClassComponent<ReactNative['NavigatorIOS']>
-  Picker: HostClassComponent<ReactNative['Picker']>
-  PickerIOS: HostClassComponent<ReactNative['PickerIOS']>
   Pressable: HostFunctionComponent<ReactNative['Pressable']>
   ProgressBarAndroid: HostClassComponent<ReactNative['ProgressBarAndroid']>
   ProgressViewIOS: HostClassComponent<ReactNative['ProgressViewIOS']>
@@ -81,7 +79,6 @@ export interface StyledComponents {
   SafeAreaView: HostClassComponent<ReactNative['SafeAreaView']>
   ScrollView: HostClassComponent<ReactNative['ScrollView']>
   SectionList: HostClassComponent<ReactNative['SectionList']>
-  SegmentedControlIOS: HostClassComponent<ReactNative['SegmentedControlIOS']>
   Slider: HostClassComponent<ReactNative['Slider']>
   SnapshotViewIOS: HostClassComponent<ReactNative['SnapshotViewIOS']>
   StatusBar: HostClassComponent<ReactNative['StatusBar']>
@@ -91,7 +88,6 @@ export interface StyledComponents {
   TabBarIOS: HostClassComponent<ReactNative['TabBarIOS']>
   Text: HostClassComponent<ReactNative['Text']>
   TextInput: HostClassComponent<ReactNative['TextInput']>
-  ToolbarAndroid: HostClassComponent<ReactNative['ToolbarAndroid']>
   TouchableHighlight: HostClassComponent<ReactNative['TouchableHighlight']>
   TouchableNativeFeedback: HostClassComponent<
     ReactNative['TouchableNativeFeedback']
