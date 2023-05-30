@@ -34,7 +34,6 @@ export interface Options {
   nonce?: string
   stylisPlugins?: Array<StylisPlugin>
   key: string
-  container?: Node
   speedy?: boolean
   /** @deprecate use `insertionPoint` instead */
   prepend?: boolean
